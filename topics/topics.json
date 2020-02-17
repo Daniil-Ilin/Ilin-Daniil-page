@@ -1,14 +1,38 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
+        "title": "Лабораторная работа №1",
+        "description": "Лабораторная работа №1",
         "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная работа №2",
+        "description": "Лабораторная работа №2",
         "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 3,
+        "title": "Лабораторная работа №3",
+        "description": "Лабораторная работа №3",
+        "preview": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Foh-youre-approaching-me-jojo-approach&psig=AOvVaw2cWwNYay7wtw8FVuApxc85&ust=1582025727710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDvqc--2OcCFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 4,
+        "title": "Лабораторная работа №4",
+        "description": "Лабораторная работа №4",
+        "preview": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Foh-youre-approaching-me-jojo-approach&psig=AOvVaw2cWwNYay7wtw8FVuApxc85&ust=1582025727710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDvqc--2OcCFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 5,
+        "title": "Лабораторная работа №5",
+        "description": "Лабораторная работа №5",
+        "preview": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Foh-youre-approaching-me-jojo-approach&psig=AOvVaw2cWwNYay7wtw8FVuApxc85&ust=1582025727710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDvqc--2OcCFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 6,
+        "title": "Лабораторная работа №6",
+        "description": "Лабораторная работа №6",
+        "preview": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Foh-youre-approaching-me-jojo-approach&psig=AOvVaw2cWwNYay7wtw8FVuApxc85&ust=1582025727710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDvqc--2OcCFQAAAAAdAAAAABAD"
     }
 ]
